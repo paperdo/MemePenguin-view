@@ -11,7 +11,7 @@
 根據官方設定，胖企鵝來自北國、和懶得"鳥"長得非常像，因此胖企鵝對懶得"鳥"一見鐘情（？），從此就住了下來，但因為胖企鵝講話時鄉音太重，所以大家都聽不懂，畫面上也只會呈現一堆符號。個性善良、情緒豐富，非常擅長顏藝，不管在台灣或是日本，在「懶得鳥你」系列中人氣都很高。  
   
 ```
-Line id = 未來會公開
+Line id = 暫未公開
 ```
   
 ## 迷因企鵝的學習單（希望達成的目標）  
@@ -24,8 +24,6 @@ Line id = 未來會公開
 ## 學習與參考來源
 [STEAM 學習教育網](https://steam.oxxostudio.tw/category/python/example/line-bot.html)  
 [RUNOOB.COM](https://www.runoob.com/python/python-dictionary.html)  
---  
-抽運勢籤的靈感是參考這篇  
 [Day 29 : 撰寫LineBot，利用短短三天認識自動化機器人(下) ](https://ithelp.ithome.com.tw/articles/10280897)  
   
 #### 最後更新日
