@@ -23,7 +23,10 @@ Line id = 未來會公開
   
 ## 學習與參考來源
 [STEAM 學習教育網](https://steam.oxxostudio.tw/category/python/example/line-bot.html)  
-[RUNOOB.COM](https://www.runoob.com/python/python-dictionary.html)
+[RUNOOB.COM](https://www.runoob.com/python/python-dictionary.html)  
+--  
+抽運勢籤的靈感是參考這篇  
+[Day 29 : 撰寫LineBot，利用短短三天認識自動化機器人(下) ](https://ithelp.ithome.com.tw/articles/10280897)  
   
 #### 最後更新日
 2022/09/24
